@@ -1,4 +1,3 @@
-// TASK: import helper functions from utils
 // TASK: import initialData
 
 // Function checks if local storage already has data, if not it loads initialData to localStorage
